@@ -1,0 +1,6 @@
+/home/taojiu/桌面/sltj/build/CMakeFiles/sltj.dir
+/home/taojiu/桌面/sltj/build/CMakeFiles/test.dir
+/home/taojiu/桌面/sltj/build/CMakeFiles/test_config.dir
+/home/taojiu/桌面/sltj/build/CMakeFiles/test_thread.dir
+/home/taojiu/桌面/sltj/build/CMakeFiles/edit_cache.dir
+/home/taojiu/桌面/sltj/build/CMakeFiles/rebuild_cache.dir

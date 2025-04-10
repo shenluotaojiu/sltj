@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC  -rdynamic -O3 -g -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -shared -Wl,-soname,libsltj.so -o /home/taojiu/桌面/sltj/lib/libsltj.so CMakeFiles/sltj.dir/src/log.cc.o CMakeFiles/sltj.dir/src/util.cc.o CMakeFiles/sltj.dir/src/config.cc.o CMakeFiles/sltj.dir/src/thread.cc.o 

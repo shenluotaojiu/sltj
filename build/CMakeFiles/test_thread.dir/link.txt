@@ -1,0 +1,1 @@
+/usr/bin/g++  -rdynamic -O3 -g -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function CMakeFiles/test_thread.dir/test/test_thread.cc.o -o /home/taojiu/桌面/sltj/bin/test_thread  -Wl,-rpath,/home/taojiu/桌面/sltj/lib /home/taojiu/桌面/sltj/lib/libsltj.so -lpthread 
